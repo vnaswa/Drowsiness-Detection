@@ -46,7 +46,7 @@ This project is a real-time drowsiness detection system that uses a webcam to mo
 2. **Run the Script:**
 
     ```bash
-    python drowsiness_detection.py
+    python main.py
     ```
 
 3. **Operation:**
